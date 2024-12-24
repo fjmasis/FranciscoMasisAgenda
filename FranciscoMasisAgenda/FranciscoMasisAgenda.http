@@ -1,0 +1,6 @@
+@FranciscoMasisAgenda_HostAddress = http://localhost:5177
+
+GET {{FranciscoMasisAgenda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
