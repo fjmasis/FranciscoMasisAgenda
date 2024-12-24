@@ -11,9 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="DataBase\" />
-    <Folder Include="Controler\" />
     <Folder Include="Pages\" />
   </ItemGroup>
 
